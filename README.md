@@ -15,9 +15,9 @@ things.
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on react and PHP.
-- 🤝 &nbsp; I’m looking to collaborate on frontend projects
-- 🌱 &nbsp; I’m currently learning PHP; 
+- 🔭 &nbsp; I’m currently working on React and Backend.
+- 🤝 &nbsp; I’m looking to collaborate on backend projects
+- 🌱 &nbsp; I’m currently learning Full Stack; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on github.
 - 💬 &nbsp; Ask me about anything UI/UX related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/aanchiglitch/)
